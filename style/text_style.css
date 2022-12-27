@@ -24,3 +24,7 @@ p {
 h4 {
     text-indent: 32px;
 }
+p {
+    margin-left: 10%;
+    margin-right: 10%;
+}

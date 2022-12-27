@@ -1,0 +1,26 @@
+body {
+    background-color: lightyellow;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+h2 {
+    margin-left: 60%;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-indent: 32px;
+    font-size: 16px;
+    line-height: 32px;
+}
+
+h4 {
+    text-indent: 32px;
+}
